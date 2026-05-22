@@ -178,7 +178,8 @@ if st.button("🚀 Analyze Sentiment"):
 
     # Headers
     headers = {
-        "User-Agent": "python:sentiment.dashboard:v1.0 (by /u/demo)"
+        "User-Agent": "Mozilla/5.0"
+
     }
 
     # Loading Spinner
